@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Main {
     public static void main(String[] args) {
         ShelterWorker shelterWorker=new ShelterWorker("Michał","Michalski",1);

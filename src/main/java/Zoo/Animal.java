@@ -1,3 +1,7 @@
+package Zoo;
+
+import Zoo.ShelterWorker;
+
 public class Animal {
     private int id;
     private String name;
@@ -43,7 +47,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal[" +
+        return "Zoo.Animal[" +
                 "id=" + id +
                 ", name=" + name +
                 ", age=" + age +

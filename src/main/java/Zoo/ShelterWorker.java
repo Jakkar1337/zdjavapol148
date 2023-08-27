@@ -1,3 +1,5 @@
+package Zoo;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -37,7 +39,7 @@ public class ShelterWorker {
 
     @Override
     public String toString() {
-        return "ShelterWorker[" +
+        return "Zoo.ShelterWorker[" +
                 "name=" + name +
                 ", surname=" + surname +
                 ", id=" + id +
